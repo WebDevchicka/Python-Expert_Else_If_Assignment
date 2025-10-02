@@ -13,7 +13,7 @@ traffic = {
 #Create function to change density to numeric values
 
 
-#Create function to decide with traffic direction goes first and create contingecy list if more than 1 direction has an emergency
+#Create function to decide with traffic direction goes first and create priority list incase there is more than 1 direction has an emergency
 
 
 # Call the function
